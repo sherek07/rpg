@@ -1,3 +1,16 @@
-p{
-   text-align: center
+body{
+   background: #CCCCCC;
+   font-size: 20px;
 }
+
+p{
+   text-align: center;
+}
+
+h1{
+   text-align: center;
+}
+  
+em strong{ 
+   color:red ;
+   }
